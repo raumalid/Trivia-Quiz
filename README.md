@@ -1,4 +1,4 @@
-javascript
+Trivia-Quiz
 ==========
 
-trivia quiz
+An experiment with Javascript
